@@ -1,2 +1,2 @@
 # testwf
-Test Github workflows
+Test Github workflows/webhooks
